@@ -1,2 +1,1 @@
-# higgs-challenge
-Higgs Challenge (Kaggle)
+[Higgs Boson Machine Learning Challenge](https://www.kaggle.com/c/higgs-boson)
